@@ -1,8 +1,7 @@
 ## NFT Marketplace ##
 This is my final project of Module 3 of the ETH Developer Program running on Costa Rica for the second half of 2024.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a05f5895-c576-49a4-a494-4cd34e4b69ab" alt="NFT Market Image">
-</p>
+
+![nft market 3](https://github.com/user-attachments/assets/a60c714d-820e-49ee-a66e-6251b327db02)
 
 ### Contract Description ###
 
